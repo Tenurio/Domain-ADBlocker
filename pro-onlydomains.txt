@@ -87801,6 +87801,7 @@ aczopdxfy.com
 aczqghbgetaef.store
 aczridptoo.com
 ad.com
+ad.doubleclick.net
 ad.global
 ad.gt
 ad.guru
@@ -88242,6 +88243,7 @@ addwish.com
 addynamix.com
 addynamo.com
 addynamo.net
+ade.googlesyndication.com
 adecn.com
 adecosystems.net
 adedy.com
@@ -134209,6 +134211,7 @@ google1302.com
 google1308.com
 googleadapis.com
 googleads.com
+googleads.g.doubleclick.net
 googleads-cn.com
 googleadservices.net
 googleadservices-cn.com
@@ -195351,6 +195354,7 @@ statesmanconcur.com
 statespiecehooter.com
 stathome.org
 stathound.com
+static.doubleclick.net
 static-cliff.lol
 static-dscn.net
 static-fable.online
@@ -203267,6 +203271,7 @@ tpaytpewgktro.online
 tpazitwbrpwwt.online
 tpbid.com
 tpbotf.icu
+tpc.googlesyndication.com
 tpc.hu
 tpcinvest.com
 tpcserve.com
@@ -224143,7 +224148,3 @@ zzzmxvoxooaat.site
 zzzmyl.com
 zzzperform.com
 zzzwowosss.com
-ad.doubleclick.net
-ade.googlesyndication.com
-tpc.googlesyndication.com
-googleads.g.doubleclick.net

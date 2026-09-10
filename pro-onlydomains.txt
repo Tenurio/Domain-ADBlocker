@@ -224145,3 +224145,5 @@ zzzperform.com
 zzzwowosss.com
 ad.doubleclick.net
 ade.googlesyndication.com
+tpc.googlesyndication.com
+googleads.g.doubleclick.net
